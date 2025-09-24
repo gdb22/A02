@@ -1,6 +1,6 @@
 # A02
 
-## (Links are provided in the refrences)
+## (Links are provided in the references)
 
 ## How to install WebStorm and Git
 ### Installing WebStorm
@@ -27,3 +27,9 @@
 - **Pull**: used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 - **Remote**: place where code is stored.
 - **Repository**: place where you can store code and files.
+
+## References
+- JetBrains: https://www.jetbrains.com/ 
+- Git: https://git-scm.com/downloads 
+- GitHub: https://github.com/ Git 
+- GitHub tutorial video: https://www.youtube.com/watch?v=tRZGeaHPoaw 
