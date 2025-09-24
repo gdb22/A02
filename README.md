@@ -31,5 +31,5 @@
 ## References
 - JetBrains: https://www.jetbrains.com/ 
 - Git: https://git-scm.com/downloads 
-- GitHub: https://github.com/ Git 
+- GitHub: https://github.com/
 - GitHub tutorial video: https://www.youtube.com/watch?v=tRZGeaHPoaw 
