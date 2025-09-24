@@ -15,15 +15,15 @@
 - Assuming you have downloaded WebStorm, there are many things you can do. You can create a repository on WebStorm, or you can import a repository from GitHub. Another thing that you can do is create a WebStorm file, where you can write HTML code. A great feature is that you can add files to Git. You can also commit changes which save your work and provide a history of changes made on your file. It's better to practice WebStorm, so you can get used to the features.
 
 ## Glossary
--**Branch**: a separate workplace where changes can be made without affecting the main project.
--**Clone**: a copy of your original repository.
--**Commit**: a snapshot of your project when changes are being made.
--**Fetch**: retrieves updates from a remote repository.
--**GIT**: is a version control system that tracks changes in files.
--**GitHub**: cloud-based platform where you can store, share, and work with others to write code.
--**Merge**: combining the changes from one branch into another.
--**Merge Conflict**: when merge branches that have competing commits.
--**Push**: updates the remote branch with local commits.
--**Pull**: used to fetch and download content from a remote repository and immediately update the local repository to match that content.
--**Remote**: place where code is stored.
--**Repository**: place where you can store code and files.
+- **Branch**: a separate workplace where changes can be made without affecting the main project.
+- **Clone**: a copy of your original repository.
+- **Commit**: a snapshot of your project when changes are being made.
+- **Fetch**: retrieves updates from a remote repository.
+- **GIT**: is a version control system that tracks changes in files.
+- **GitHub**: cloud-based platform where you can store, share, and work with others to write code.
+- **Merge**: combining the changes from one branch into another.
+- **Merge Conflict**: when merge branches that have competing commits.
+- **Push**: updates the remote branch with local commits.
+- **Pull**: used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+- **Remote**: place where code is stored.
+- **Repository**: place where you can store code and files.
